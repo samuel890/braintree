@@ -15,8 +15,7 @@ It does following transactions:
 - Generate summary report of all credit cards.
 - Read transaction data from file or stdin.
 - Perform serveral JUnit test case.
-- Log every transactions with Braintree processor authorization repsonse code and message 
-https://developers.braintreepayments.com/ios+ruby/reference/general/processor-responses/authorization-responses
+- Log every transactions repsonse code and message 
 
 
 HOW TO USE:
